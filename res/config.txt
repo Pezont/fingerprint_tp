@@ -1,0 +1,9 @@
+webrtc$1
+webgl$0
+canvas$1
+javascript$1
+incognito$1
+language$английский(испанский)
+user_agent$chrome_1
+proxy_ip$ 
+proxy_port$ 
